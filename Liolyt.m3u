@@ -1,0 +1,38 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-Chno="1",WarnerBros
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/40_.m3u8?token=-R67HjT0N1ZUO8s4vs5v_Q&expires=1657583255&ip=146.70.49.238
+#EXTINF:-1 tvg-logo="",StarChanel
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=YYQDSLYYRVh7cq4FRHc2dA&expires=1657583538&ip=146.70.49.238
+#EXTINF:-1 tvg-logo="",Tnt
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/41_.m3u8?token=vU-L0m6XSegn0UUSJNbmXw&expires=1657583707&ip=146.70.49.238
+#EXTINF:-1 tvg-logo="",StarSeries
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/38_.m3u8?token=3wnGLtiCV7sR3JmUcsxd6Q&expires=1657583972&ip=146.70.49.238
+#EXTINF:-1 tvg-logo="",DiscoveryChanel
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/95_.m3u8?token=uyXdg3X_dKJnVVOuizshGA&expires=1657584148&ip=146.70.49.238
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Televisiete_Logo.png/640px-Televisiete_Logo.png",24 horas/Canal 7
+http://89.163.140.28:25461/live/stream/stream/59.ts?token=TxdaBBZRQANGAg0HBgNSBAFRUABQBAxRBlZTAAYLAgAEBQVVB18DX1QUFUBFFRBUBAs6UFYQAgIPTUFFFlwWO11REF9HCEAVRkJQD1NDWABTU1IMBgsKBAVNQUAMXUZeFgcEXFEBQBVGU0EWUxMMUAk5AVxEW1tSFFsNRQlVSEZbW20BAFQDVwAUA0AGQ04TDBUVGwhcTVtaTUFSDE0WBUBQEF9HC1QAVBQVQFUOF18RFBwbCBB%2FYxRNQVUdTQEKR1xdC0cDQE0XFBVAXxI9QwAVEUtXU1VSRENZElUbSEZZVEo6BlYMVwFVTQtZDxETX0RUCQICCBUaQw5fC1AQC0ZqQgwBG1gbVQINWwFDHw%3D%3D
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Gx3W73/1657556186780.png",24 horas/Canal 3
+http://89.163.140.28:25461/live/stream/stream/60.ts?token=TxdaBBZRQANGDgADBQVXAwdQUV8EUQsEAQBTUgEIXFxXUFNRAQpSDAYUFUBFFRBUBAs6UFYQAgEGTUFFFlwWO11REF9HCEAVRkJQD1NDWABTU1IMBgsMAARNQUAMXUZeFgACVVUbThsBTk0HRA8DXToCAE9bUV0VDA8WXAkVRgtaalYACFgMXUYMG1IUTUBYFhZHA1xHVFsaQwFZEUsFEFEXCEdUCVsNRhobAVkUDEUXH0cDEHVsFRpDBkgRXAoXXVpcR18bFkpGGhsLRT4QVBYSF1xTX11FFFtBAEcVRglVTW0GClcMXAdCUA1YEkALR1dVCQICGhsUDAxeDE0LFmtFWwFHA0AIUAMJURQc
+#EXTINF:-1 tvg-logo="https://stringfixer.com/files/175219412.jpg",Canal 11
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/78_.m3u8?token=5K5ujs_Pzwk6DIkNBq2pxA&expires=1657582785&ip=146.70.49.238
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHPDG5jnzDLdV3F34GvnMpPhhO1VPSNlnNQ&usqp.pgn",24horas/Tn 23
+http://89.163.140.28:25461/live/stream/stream/63.ts?token=TxdaBBZRQANGDl1aVAdRVQBXVwkLBVpWAAUBBAFfAlIGBVRUVQ4BClUUFUBFFRBUBAs6UFYQAgEFTUFFFlwWO11REF9HCEAVRkJQD1NDWABTU1IMBgsADgRNQUAMXUZeFgcFV1wLQBVGU0EWUxMMUAk5AVxEW1tSFFsNRQlVSEZbW20BAFQDVwAUA0AGQ04TDBUVGwhcTVtaTUFSDE0WBUBQEF9HC1QAUhQVQFUOF18RFBwbCBB%2FYxRNQVUdTQEKR1xdC0cDQE0XFBVAXxI9QwAVEUtXU1VSRENZElUbSEZZVEo6BlYMVwFVTQtZDxETX0RUCQICCBUaQw5fC1AQC0ZqQgwBG1gbVQIMVANDHw%3D%3D
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yWXn2h3/Trecevisi-n-Guatemala.png",24horas/Canal 13
+http://89.163.140.28:25461/stream/stream/61?token=TxdaBBZRQANGDwxTB1FSUFFXV1pUAwkGBQBTUgcAUVQGVgUDUwlRWAIUFUBFFRBUBAs6UFYQAgEHTUFFFlwWO11REF9HCEAVRkJQD1NDWABTU1IMBgsPBA9NQUAMXUZeFgcCUVMNQBVGU0EWUxMMUAk5AVxEW1tSFFsNRQlVSEZbW20BAFQDVwAUA0AGQ04TDBUVGwhcTVtaTUFSDE0WBUBQEF9HCFEIVRQVQFUOF18RFBwbCBB%2FYxRNQVUdTQEKR1xdC0cDQE0XFBVAXxI9QwAVEUtXU1VSRENZElUbSEZZVEo6BlYMVwFVTQtZDxETX0RUCQICCBUaQw5fC1AQC0ZqQgwBG1gbUgIIUhQc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHSMBTt/1657556520987.png",24horas/Gatevivicion
+http://89.163.140.28:25461/live/stream/stream/58.ts?token=TxdaBBZRQANGAQpRUlJaUARRXQ4DBQ4FAVMCBVELVlwGAlNVVVgGCQEUFUBFFRBUBAs6UFYQAgIOTUFFFlwWO11REF9HCEAVRkJQD1NDWABTU1IMBwEIBAVNQUAMXUZeFgQFVVwIQBVGU0EWUxMMUAk5AVxEW1tSFFsNRQlVSEZbW20BAFQDVwAUA0AGQ04TDBUVGwhcTVtaTUFSDE0WBUBQEF9HC1MLVRQVQFUOF18RFBwbCBB%2FYxRNQVUdTQEKR1xdC0cDQE0XFBVAXxI9QwAVEUtXU1VSRENZElUbSEZZVEo6BlYMVwFVTQtZDxETX0RUCQICCBUaQw5fC1AQC0ZqQgwBG1gbVgIBVxQc
+#EXTINF:-1 tvg-logo="",TntSeries
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/76_.m3u8?token=K-DtkqYz6crpecsmEss5mA&expires=1657587350&ip=146.70.49.238
+#EXTINF:-1 tvg-logo="",G,Plus
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/73_.m3u8?token=hvfoQEyYH4FuJYxPJVp-gg&expires=1657586687&ip=146.70.49.238
+#EXTINF:-1 tvg-logo="",G Premier
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/75_.m3u8?token=EV0NZC4Dz0aH8UxupBIfAQ&expires=1657586890&ip=146.70.49.238https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/75_.m3u8?token=EV0NZC4Dz0aH8UxupBIfAQ&expires=1657586890&ip=146.70.49.238
+#EXTINF:-1 tvg-logo="",UniversalChanel
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/79_.m3u8?token=njfuTgvZ5b9J38_yRutR6w&expires=1657587033&ip=146.70.49.238https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/76_.m3u8?token=K-DtkqYz6crpecsmEss5mA&expires=1657587350&ip=146.70.49.238
+#EXTINF:-1 tvg-logo="",FoxSportsPremiun 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/10_.m3u8?token=flwbIxX2xOOsUXNNge_E2A&expires=1657587980&ip=146.70.49.238
+#EXTINF:-1 tvg-logo="",FoxSeries
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/38_.m3u8?token=GVvsA3lz3Vqa8wXW-wvZ7g&expires=1657588493&ip=37.120.202.70
+#EXTINF:-1 tvg-logo="",Asteca
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/52_.m3u8?token=sAtBKinD6h27uvGh6e5R3Q&expires=1657588812&ip=37.120.202.70
